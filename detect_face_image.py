@@ -1,3 +1,5 @@
+#In VSCode click Run and then Click Run Without Debugging to execute the code
+
 import cv2
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 img = cv2.imread('1234.jpg')
